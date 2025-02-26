@@ -1,0 +1,9 @@
+langchain 
+requests 
+beautifulsoup4 
+google-generativeai 
+python-dotenv
+langgraph
+langchain_google_genai
+tavily-python
+streamlit
